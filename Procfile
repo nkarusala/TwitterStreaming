@@ -1,1 +1,1 @@
-worker: python TwitterStreaming.py
+web: python TwitterStreaming.py
